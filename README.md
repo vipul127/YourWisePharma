@@ -1,7 +1,6 @@
 # YourWisePharma 🏥💊  
 > Empowering better prescription decisions through transparent, data‑driven medicine alternatives.
 
----
 
 ## 📌 Overview
 
@@ -14,6 +13,16 @@
 *Search autocomplete in Medication Pages(detailed search).*
 
 ---
+
+# Demo
+<video autoplay loop muted playsinline>
+  <source src="esign.mp4" type="video/mp4">
+</video>
+
+
+
+---
+
 
 ## ✨ Features
 
